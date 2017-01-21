@@ -1,0 +1,22 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Docs for SayHi.ai",
+  "main": "site/index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/sayhi-ai/docs.git"
+  },
+  "author": "sayhi-ai",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/sayhi-ai/docs#readme",
+  "scripts": {
+    "start": "",
+    "build": "mkdocs build",
+    "dev": "mkdocs serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
