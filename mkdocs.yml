@@ -2,4 +2,9 @@ site_name: Documentation
 pages:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+theme: material
+theme_dir: 'theme'
+extra:
+  logo: 'img/logo.png'
+extra_css:
+  - 'stylesheets/extra.css'
