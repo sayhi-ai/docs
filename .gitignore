@@ -1,0 +1,6 @@
+# Folders
+site
+.idea
+
+# Files
+.DS_Store
